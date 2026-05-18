@@ -7,7 +7,7 @@ A bare-metal embedded system implementing a secure vault locking mechanism. This
 https://github.com/user-attachments/assets/a340ef40-0053-4221-bd33-50364ea263a8
 
 
-## 🛠️ Hardware Components
+## Hardware Components
 * **Microcontroller:** Microchip PIC18F4455 (Running at 4MHz)
 * **Display:** 0.96" OLED SSD1306 (I2C Communication)
 * **Input:** 4x4 Matrix Membrane Keypad
